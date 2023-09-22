@@ -1,0 +1,6 @@
+1. Interfaz de todos los atributos a la vez + db al lado.
+
+2. Función añadir que agrega la información visualizada si no encuentra un ID con dicha información.
+3. Función eliminar que elimina el ID de la información visualizada.
+4. Función que muestra toda la información en las casillas de muestreo cuando se le da click al ID de un empleado
+en la base de datos.
