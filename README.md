@@ -1,1 +1,1 @@
-# Java-MySQL-Application
+# Java-MySQL-Application (my-take)
