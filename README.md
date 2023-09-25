@@ -14,6 +14,9 @@ https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-
 Example project:
 https://www.tutussfunny.com/house-rent-system-using-java-mysql/
 
+Java MySQL Connector Jar:
+http://www.java2s.com/ref/jar/download-mysqlconnectorjava5147jar-file.html#google_vignette
+
 XAMPP SETUP:
 1. Start "Apache" y "MySQL".
 2. Configura https://www.youtube.com/watch?v=2mHJTv3gyDE
