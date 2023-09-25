@@ -14,8 +14,9 @@ https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-
 Example project:
 https://www.tutussfunny.com/house-rent-system-using-java-mysql/
 
-XAMPP -> MYSQL/PHP -> JAVA APP:
-https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/
+XAMPP SETUP:
+1. Start "Apache" y "MySQL".
+2. Configura https://www.youtube.com/watch?v=2mHJTv3gyDE
+3. Click on "MySQL" Admin.
+(Some guide: https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
 
-Checkpoint:
-Logra accesar a phpmyadmin instalando solo XAMPP.
