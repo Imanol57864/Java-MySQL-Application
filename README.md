@@ -27,4 +27,5 @@ XAMPP SETUP:
 
 1.<img width="941" alt="Table1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/ca8e2099-b6bf-44ec-836b-e53c17e1eaac">
 
-JAJA ahora si toca programar backend dentro del NetBeans.
+2.<img width="960" alt="Input1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/e2630714-f97e-470d-a897-b37fce810ee2">
+
