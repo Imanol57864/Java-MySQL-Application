@@ -20,3 +20,6 @@ XAMPP SETUP:
 3. Click on "MySQL" Admin.
 (Some guide: https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
 
+
+
+1.<img width="941" alt="Table1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/ca8e2099-b6bf-44ec-836b-e53c17e1eaac">
