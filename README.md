@@ -16,6 +16,7 @@ https://www.tutussfunny.com/house-rent-system-using-java-mysql/
 
 Java MySQL Connector Jar:
 http://www.java2s.com/ref/jar/download-mysqlconnectorjava5147jar-file.html#google_vignette
+(se agrega en el paquete de librerias en tu proyecto de JAVA)
 
 XAMPP SETUP:
 1. Start "Apache" y "MySQL".
@@ -24,5 +25,6 @@ XAMPP SETUP:
 (Some guide: https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/)
 
 
-
 1.<img width="941" alt="Table1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/ca8e2099-b6bf-44ec-836b-e53c17e1eaac">
+
+JAJA ahora si toca programar backend dentro del NetBeans.
