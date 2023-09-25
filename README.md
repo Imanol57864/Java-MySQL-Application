@@ -16,3 +16,6 @@ https://www.tutussfunny.com/house-rent-system-using-java-mysql/
 
 XAMPP -> MYSQL/PHP -> JAVA APP:
 https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/
+
+Checkpoint:
+Logra accesar a phpmyadmin instalando solo XAMPP.
