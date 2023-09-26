@@ -3,6 +3,12 @@ This project is an example of a Java Application which requires MySQL and NetBea
 One key aspect of this project is the implementation of a database into an interface; the data is saved while the user can close and open the program at any time.
 If you want to duplicate this project, follow the steps below.
 
+<img width="570" alt="Interfaz 1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/b752f5da-5c4b-413a-937a-1df8bfb11150">
+
+<img width="941" alt="Table1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/ca8e2099-b6bf-44ec-836b-e53c17e1eaac">
+
+<img width="960" alt="Input1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/e2630714-f97e-470d-a897-b37fce810ee2">
+
 ## Download these
 JDK 17:
 https://www.oracle.com/mx/java/technologies/downloads/#jdk17-windows
@@ -41,11 +47,3 @@ Now start playing with it. Try adding some information or click on the ID from t
 3. Go to " /*Bind to the localhost ipv4 address and tcp */ ".
 4. Change 'host' ip address for 'localhost:*PORT*'. (*PORT* = the port that shows up in XAMPP from MySQL)
 (Extra help: https://www.youtube.com/watch?v=2mHJTv3gyDE)
-
-
-1.<img width="941" alt="Table1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/ca8e2099-b6bf-44ec-836b-e53c17e1eaac">
-
-2.<img width="960" alt="Input1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/e2630714-f97e-470d-a897-b37fce810ee2">
-
-3.<img width="570" alt="Interfaz 1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/b752f5da-5c4b-413a-937a-1df8bfb11150">
-
