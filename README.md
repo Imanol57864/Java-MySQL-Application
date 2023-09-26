@@ -17,7 +17,7 @@ Neatbeans IDE 17:
 https://netbeans.apache.org/download/nb17/index.html
 
 XAMPP:
-https://blog.containerize.com/how-to-setup-xampp-and-phpmyadmin-as-localhost-on-windows/
+https://www.apachefriends.org/es/download.html
 
 Java-MySQL Connector Jar:
 http://www.java2s.com/ref/jar/download-mysqlconnectorjava5147jar-file.html#google_vignette
