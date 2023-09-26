@@ -29,15 +29,15 @@ The DB template from this project:
 https://github.com/Imanol57864/Java-MySQL-Application/blob/main/records.sql
 
 ## Setup
-1st - Install JDK 17.
-2nd - Install NetBeans IDE 17.
-3rd - Install XAMPP.
-4th - Import the project  "EmployerInformation.zip" into NetBeans.
-5th - Open XAMPP and Start Apache and MySQL. (Got Problems? Go to XAMPP Setup down below).
-6th - Click on Admin from MySQL.
-7th - Create a new database and import the DB template.
-8th - In NetBeans, Go into EmployeeInformation -> Source Packages -> employerinformation -> Interfaz.java".
-9th - Build and clean that file, then, run it.
+1. Install JDK 17.
+2. Install NetBeans IDE 17.
+3. Install XAMPP.
+4. Import the project  "EmployerInformation.zip" into NetBeans.
+5. Open XAMPP and Start Apache and MySQL. (Got Problems? Go to XAMPP Setup down below).
+6. Click on Admin from MySQL.
+7. Create a new database and import the DB template.
+8. In NetBeans, Go into EmployeeInformation -> Source Packages -> employerinformation -> Interfaz.java".
+9. Build and clean that file, then, run it.
 Now start playing with it. Try adding some information or click on the ID from the table and the click on delete to remove some information.
 
 
