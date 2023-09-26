@@ -29,3 +29,5 @@ XAMPP SETUP:
 
 2.<img width="960" alt="Input1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/e2630714-f97e-470d-a897-b37fce810ee2">
 
+3.<img width="570" alt="Interfaz 1" src="https://github.com/Imanol57864/Java-MySQL-Application/assets/67908214/b752f5da-5c4b-413a-937a-1df8bfb11150">
+
